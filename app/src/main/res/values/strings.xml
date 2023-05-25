@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="senha">senha</string>
+    <string name="btn">Soma</string>
+    <string name="valor1">Digite um número</string>
+    <string name="valor2">Digite outro número</string>
+    <string name="resultado">Resultado</string>
+    <string name="sub">Subtrair</string>
+    <string name="div">Dividir</string>
+    <string name="multi">Multiplicar</string>
+</resources>
